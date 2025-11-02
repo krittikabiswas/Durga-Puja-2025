@@ -129,4 +129,4 @@ npm run dev
 ## 📜 License
 
 📂 Licensed under the **MIT License**. See LICENSE for details.
-Project made by Team Sondesh at Algorand Hackathon 2025
+Project made for Algorand 2025
